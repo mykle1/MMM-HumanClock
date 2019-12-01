@@ -21,7 +21,7 @@ A different kind of calendar. Photos contributed from all over the world.
         position: "middle_center",
         config: {
           size: "small", // small or large
-          dayView: "1", // analog or digital
+          calType: "analog", // analog or digital
         }
       },
 ```
